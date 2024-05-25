@@ -1,2 +1,1 @@
-# git-cheat-sheet
-Git Cheat Sheet
+# Awesome Git Cheat Sheet
